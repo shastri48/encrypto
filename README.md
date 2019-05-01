@@ -1,11 +1,11 @@
-#Encrypto
-###An Online text encryption and decryption tool.
-######This tool is used to Encrypt and Decrypt personal message based on secret key.
+# Encrypto
+### An Online text encryption and decryption tool.
+###### This tool is used to Encrypt and Decrypt personal message based on secret key.
 
 
-###Encrypt
-#####This is used to encrypt text based on personal secret key.
-######This tool is used for encrypting personal message or text.
+### Encrypt
+##### This is used to encrypt text based on personal secret key.
+###### This tool is used for encrypting personal message or text.
 
 Requirements:-
 
@@ -13,9 +13,9 @@ Requirements:-
 2. Personal message or some text which has to be encrypted in order to secure from public exposure.
 
 
-###Decrypt
-#####This is used to decrypt text based on personal secret key.
-######This tool is used for decryption of encrypted Hash Code.
+### Decrypt
+##### This is used to decrypt text based on personal secret key.
+###### This tool is used for decryption of encrypted Hash Code.
 
 Requirements
 
