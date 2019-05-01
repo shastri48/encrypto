@@ -24,7 +24,7 @@ class App extends Component {
             <div className="App">
                 <Header changeActivePage={this.changeActivePage}/>
                 <TagName changeActivePage={this.changeActivePage} />
-            <footer className="app-footer bg-dark">
+            <footer className="app-footer bg-dark container">
                 <span>&copy; Abhishek shastri.</span>
             </footer>
         </div>

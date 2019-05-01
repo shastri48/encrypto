@@ -4,7 +4,7 @@ class Header extends Component {
 
     render() {
         return (
-            <nav className="navbar navbar-dark bg-dark">
+            <nav className="navbar navbar-dark bg-dark container">
                 <button className="navbar-brand" onClick={() => this.props.changeActivePage('Home')}>Encrypto</button>
                 <ul className="navbar-nav row">
                     <li className="nav-item active col">
