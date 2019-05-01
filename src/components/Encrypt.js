@@ -35,7 +35,7 @@ class Encrypt extends Component {
         this.setState({
             secretKey: "",
             hashCode: "",
-            decryptedMessage: ""
+            encryptedMessage: ""
         });
     };
 
